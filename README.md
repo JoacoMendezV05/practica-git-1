@@ -1,8 +1,13 @@
 \#Practica 1 -Git y GitHub
 
-\## Instrucciones de uso
+## Instrucciones de uso
+Este proyecto es una práctica de Git.
+Aquí aprenderás a manejar repositorios locales y remotos.
 
-\- Este proyecto es una práctica de Git.
+## Instrucciones de la práctica
 
-\- Aquí aprenderás a manejar repositorios locales y remotos.
-
+Clonar o crear un repositorio.
+Hacer cambios.
+Crear commits.
+Trabajar con ramas.
+Publicar en GitHub.
