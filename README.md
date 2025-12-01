@@ -28,3 +28,11 @@ Estoy practicando cómo sincronizar cambios desde un clon hacia GitHub.
 
 
 
+\## Actualización desde la rama: mejoras-desde-clon
+
+
+
+Estoy practicando cómo hacer un pull request desde una rama auxiliar hacia la rama main.
+
+
+
